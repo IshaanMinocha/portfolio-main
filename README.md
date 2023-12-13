@@ -1,3 +1,4 @@
-# Template website for product showcase by Ishaan
+# Ishaan Minocha's Portfolio Website
+## about him and all his projects
 
-for hwm and further hacks
+(under construction)
